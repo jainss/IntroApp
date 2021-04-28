@@ -1,6 +1,6 @@
-# introapp
+## IntroApp
 
-A new Flutter project.
+A new Flutter project only UI portion 
 
 ## Getting Started
 
